@@ -1,0 +1,50 @@
+Staging Ref,Report Label,Category,Object (Hardcoded),Name (Hardcoded)
+FTET-1,FTET-1,Bill Calculation,Bill Item,Agent Real Time Bill Calculation
+FTET-2,FTET-2,Payment,Payment Allocation,Payment
+FTET-3,FTET-3,Bill Amendment,Amendment,Allowance
+FTET-4,FTET-4,Payment,Payment,Refund
+FTET-5,FTET-5,Payment,Payment,Payment
+FTET-6,FTET-6,Payment,Payment,Return/Transfer
+FTET-7,FTET-7,Bill Calculation,Bill Item,Batch Bill Calculation
+FTET-8,FTET-8,Bill Calculation,Bill Item,Service Item Entry
+FTET-9,FTET-9,Bill Calculation,Bill Item,Reading Entry
+FTET-10,FTET-10,Bill Calculation,Bill Item,Charge Basis Entry
+FTET-11,FTET-11,Bill Calculation,Bill Item,Discount Entry
+FTET-12,FTET-12,Bill Calculation,Bill Item,Agreed Rate Entry
+FTET-13,FTET-13,Bill Calculation,Bill Item,Tax Entry
+FTET-14,FTET-14,Bill Calculation,Bill Item,Agreed Sample Entry
+FTET-15,FTET-15,Bill Calculation,Bill Item,Agreed Volume Entry
+FTET-16,FTET-16,Bill Amendment,Amendment,Manual Amendment
+FTET-17,FTET-17,Bill Amendment,Amendment,Reading Amendment
+FTET-18,FTET-18,Bill Amendment,Amendment,Service Item Amendment
+FTET-19,FTET-19,Bill Amendment,Amendment,Discount Amendment
+FTET-20,FTET-20,Bill Amendment,Amendment,Agreed Rate Amendment
+FTET-21,FTET-21,Bill Amendment,Amendment,Charge Basis Amendment
+FTET-22,FTET-22,Bill Amendment,Amendment,Tax Classification Amendment
+FTET-23,FTET-23,Bill Amendment,Amendment,Agreed Sample Strength Amendment
+FTET-24,FTET-24,Bill Amendment,Amendment,Agreed Volume Amendment
+FTET-25,FTET-25,Payment,Payment,Goodwill
+FTET-26,FTET-26,Bill Amendment,Amendment,Customer Move Amendment
+FTET-27,FTET-27,Bill Amendment,Amendment,Service Item Invalidated
+FTET-28,FTET-28,Bill Amendment,Amendment,Charge Basis Invalidated
+FTET-29,FTET-29,Bill Amendment,Amendment,Agreed Volume Invalidated
+FTET-30,FTET-30,Bill Amendment,Amendment,Agreed Sample Strength Invalidated
+FTET-31,FTET-31,Bill Amendment,Amendment,Discount Invalidated
+FTET-32,FTET-32,Bill Amendment,Amendment,Service Item Agreed Volume Invalidated
+FTET-33,FTET-33,Bill Amendment,Amendment,Supply Point Allowance Invalidated
+FTET-34,FTET-34,Bill Amendment,Amendment,Tax classification Invalidated
+FTET-35,FTET-35,Bill Amendment,Amendment,Sample Amendment
+FTET-36,FTET-36,Bill Amendment,Amendment,Agreement Invalidated
+FTET-37,FTET-37,Bill Amendment,Amendment,Discount Retrospection
+FTET-38,FTET-38,Bill Amendment,Amendment,Customer Move Out
+FTET-39,FTET-39,Bill Amendment,Amendment,Tax Retrospection
+FTET-40,FTET-40,Bill Calculation,Bill Item,Write Off
+FTET-41,FTET-41,Bill Amendment,Amendment,Supply Point Allowance Retrospection
+FTET-42,FTET-42,Bill Calculation,Bill Item,Agreed Sample Strength Entry
+FTET-43,FTET-43,Bill Calculation,Bill Item,Service Item Agreed Volume Entry
+FTET-44,FTET-44,Bill Calculation,Bill Item,Supply Point Allowance Entry
+FTET-45,FTET-45,Bill Calculation,Bill Item,Transfer
+FTET-46,FTET-46,Bill Calculation,Bill Item,Write Off Reversal
+FTET-47,FTET-47,Bill Calculation,Bill Item,Sample Entry
+FTET-48,FTET-48,Bill Calculation,Bill Item,Chargeable Daily Volume Entry
+FTET-49,FTET-49,Bill Calculation,Bill Item,Credit Movement

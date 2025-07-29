@@ -1,0 +1,56 @@
+Staging Ref,Payment Method Type Staging Ref,Payment Plan Type Staging Ref,Day of Month Required,Default
+PM-MEWS-I,Instalments,PPT-MEWS,0,0
+PM-MEFS-I,Instalments,PPT-MEFS,0,0
+PM-MEMS-I,Instalments,PPT-MEMS,0,0
+PM-MEMS-SO,Standing Order,PPT-MEMS,0,0
+PM-MEMC-PC,Payment Card,PPT-MEMC,0,0
+PM-MRWS-I,Instalments,PPT-MRWS,0,0
+PM-MRWC-PC,Payment Card,PPT-MRWC,0,0
+PM-MWBS-I,Instalments,PPT-MWBS,0,0
+PM-MWWD-WD,Water Direct,PPT-MWWD,0,0
+PM-MWNCWD-WD,Water Direct,PPT-MWNCWD,0,0
+PM-MFBS-I,Instalments,PPT-MFBS,0,0
+PM-MMBDD-DD,Direct Debit,PPT-MMBDD,1,0
+PM-MMBS-I,Instalments,PPT-MMBS,0,0
+PM-MMBS-SO,Standing Order,PPT-MMBS,0,0
+PM-MMBC-PC,Payment Card,PPT-MMBC,0,0
+PM-UEWS-I,Instalments,PPT-UEWS,0,0
+PM-UEFS-I,Instalments,PPT-UEFS,0,0
+PM-UEMS-I,Instalments,PPT-UEMS,0,0
+PM-UEMS-SO,Standing Order,PPT-UEMS,0,0
+PM-UEMC-PC,Payment Card,PPT-UEMC,0,0
+PM-URWS-I,Instalments,PPT-URWS,0,0
+PM-URWC-PC,Payment Card,PPT-URWC,0,0
+PM-UWWD-WD,Water Direct,PPT-UWWD,0,0
+PM-UWNCWD-WD,Water Direct,PPT-UWNCWD,0,0
+PM-UW43S-I,Instalments,PPT-UW43S,0,0
+PM-UW52S-I,Instalments,PPT-UW52S,0,0
+PM-UF22S-I,Instalments,PPT-UF22S,0,0
+PM-UF26S-I,Instalments,PPT-UF26S,0,0
+PM-UM10S-I,Instalments,PPT-UM10S,0,0
+PM-UM10S-SO,Standing Order,PPT-UM10S,0,0
+PM-UM10DD-DD,Direct Debit,PPT-UM10DD,1,0
+PM-UM10C-PC,Payment Card,PPT-UM10C,0,0
+PM-UM12S-I,Instalments,PPT-UM12S,0,0
+PM-UM12S-SO,Standing Order,PPT-UM12S,0,0
+PM-UM12C-PC,Payment Card,PPT-UM12C,0,0
+PM-UHYS-I,Instalments,PPT-UHYS,0,0
+PM-UHYS-SO,Standing Order,PPT-UHYS,0,0
+PM-UHYDD-DD,Direct Debit,PPT-UHYDD,1,0
+PM-XPIFS-I,Instalments,PPT-XPIFS,0,1
+PM-XPIFS-SO,Standing Order,PPT-XPIFS,0,0
+PM-XPIFDD-DD,Direct Debit,PPT-XPIFDD,1,0
+PM-FWS-I,Instalments,PPT-FWS,0,0
+PM-FWC-PC,Payment Card,PPT-FWC,0,0
+PM-FFS-I,Instalments,PPT-FFS,0,0
+PM-FFC-PC,Payment Card,PPT-FFC,0,0
+PM-FMS-I,Instalments,PPT-FMS,0,0
+PM-FMS-SO,Standing Order,PPT-FMS,0,0
+PM-FMDD-DD,Direct Debit,PPT-FMDD,1,0
+PM-FMC-PC,Payment Card,PPT-FMC,0,0
+PM-FPIFS-I,Instalments,PPT-FPIFS,0,0
+PM-FPIFS-SO,Standing Order,PPT-FPIFS,0,0
+PM-FPIFDD-DD,Direct Debit,PPT-FPIFDD,1,0
+PM-FPIFC-PC,Payment Card,PPT-FPIFC,0,0
+PM-XLITS-I,Instalments,PPT-XLITS,0,0
+PM-XLITS-SO,Standing Order,PPT-XLITS,0,0

@@ -1,7 +1,0 @@
-Staging Ref,Day of Month,Day of Week,"Payment Method Type Staging Ref
-"
-Direct Debit_Date,1;8;15;22,,Direct Debit
-Instalments_Date,1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28,Monday; Tuesday;Wednesday;Thursday;Friday,Instalments
-Payment Card_Date,1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28,Monday; Tuesday;Wednesday;Thursday;Friday,Payment Card
-Water Direct _Date,1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28,Monday; Tuesday;Wednesday;Thursday;Friday,Water Direct
-Standing Order_Date,1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28,Monday; Tuesday;Wednesday;Thursday;Friday,Standing Order

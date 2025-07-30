@@ -1,0 +1,21 @@
+﻿Staging Ref,Daily Tolerance Value,Service Item Family Staging Ref,Supply Point Usage Type,Supply Point Usage Type Staging Ref (not required as a field in SF but may help with linking to the relvant SPUT record),Tolerance Type
+SITOL001,5.42,SIF002,Bournemouth Water - Household,SPUT001,High Value
+SITOL002,6.59,SIF020,South West Water - Household,SPUT003,High Value
+SITOL003,6.59,SIF021,South West Water - Household,SPUT003,High Value
+SITOL004,4.11,SIF034,South West Water - Household,SPUT003,High Value
+SITOL005,33.65,SIF072,Isles of Scilly - Non Household,SPUT006,High Value
+SITOL006,33.65,SIF073,Isles of Scilly - Non Household,SPUT006,High Value
+SITOL007,20.83,SIF076,Isles of Scilly - Non Household,SPUT006,High Value
+SITOL008,4.11,SIF087,Westonbirt - Household,SPUT007,High Value
+SITOL009,20.83,SIF093,Westonbirt - Non Household,SPUT008,High Value
+SITOL010,6.59,SIF100,Isles of Scilly - Household,SPUT005,High Value
+SITOL011,6.59,SIF101,Isles of Scilly - Household,SPUT005,High Value
+SITOL012,4.11,SIF104,Isles of Scilly - Household,SPUT005,High Value
+SITOL013,20.83,SIF137,Bournmouth Water - Bulk,SPUT009,High Value
+SITOL014,20.83,SIF138,Bournmouth Water - Bulk,SPUT009,High Value
+SITOL015,20.83,SIF139,South West Water - Bulk,SPUT010,High Value
+SITOL016,20.83,SIF140,South West Water - Bulk,SPUT010,High Value
+SITOL017,33.65,SIF145,South West Water - Bulk,SPUT010,High Value
+SITOL018,33.65,SIF146,South West Water - Bulk,SPUT010,High Value
+SITOL019,33.65,SIF147,South West Water - Bulk,SPUT010,High Value
+SITOL020,33.65,SIF148,South West Water - Bulk,SPUT010,High Value

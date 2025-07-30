@@ -1,0 +1,85 @@
+﻿Object Label,Object Name,Record Count,Status,Comments,ETL dev required,Comments,Links,ADO Ticket,Additional ADO tickets ,Additional ADO tickets ,Additional ADO tickets ,Additional ADO tickets ,Charging Model,User Story,ETL Task Ticket,ETL Task Priority,Sign Off with the Business - Ticket,Passed to DM,ETL Bug Ticket,Action Ticket,Object Filter Done,Charging model dependent,,
+Device Size,DeviceSize__c,0,Active,,In testing ETL6,,,40289,36750,,,,,38487 & 43491,56356,1,55648,Passed across to DM 14/03/25,36750,40289,Done,,,Done
+Supply Point Usage Type,SupplyPointUsageType__c,10,Active,,ETL dev completed - SMD to test after ETL 6,Supply Point Usage types not applied to Supply Points,https://southwestwater.visualstudio.com/CEP%20Solution/_workitems/edit/36510,33485,36510, ,,,Charging Model & Non Charging Model,36510 & 38532 & 43141,55924 & 55925,1,55651,Passed across to DM 10/03/25,36510,33485 & 34515 & 33483,Done,,,Done
+Default Average Daily Usage,DefaultAverageDailyUsage__c,300,Active,16/04/2024 - values agreed based on number of occupiers ,,,,34517, , ,34974,,Charging Model,38544 & 43159 & 34974,56481,2,55656,"Not signing off yet - Steve G answered on 55656 (comment by SMD 13/03/3035 )- 55957
+
+REV V3 passed across Mon 24/03
+To review feedback from Steve G",,34517 & 55957,Done,,Waiting until we've closed on all questions.  Not a huge impact on ETL.  Low impact.,Review in meeting - 55656
+Bundle,Bundle__c,0,Active,,ETL dev required,ETL Build Task - Available Bundle transformation mapping,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/37076?McasTsid=26110&McasCtx=4,37076,,,,,Charging Model,38745 & 43125,37076,1,55658,"Can't sign off yet - see actions 55948 (Ruth) and 55949 (Mat)
+
+REV V3 passed across Mon 24/03
+
+55948 & 56787 open",,55948 & 55949,Done,Y,Think we can take a full cut - not impacted by Sundries - but some other fields ,Review in meeting
+Bundle Item,BundleItem__c,0,Active,,ETL dev required,Build Task: Bundle Item needs to be included in ETL,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52446?McasTsid=26110&McasCtx=4,34129,37076,52446,,,Charging Model,34129,52446,2,55660,"Can't sign off until Bundle is signed off.
+
+REV V3 passed across Mon 24/03",,,Done,Y,,Dependency
+Group Type,GroupType__c,1,Complete,Not required - confirmed with NF and from Ruth (17/03/2025,,,,,, ,,,Charging Model,,54805,2,55674,Passed across to DM 17/03/25,,,Done,,,Done
+Band Type,BandType__c,0,Complete,Not required,scope required,Are the BandType and ServiceMessage Objects in scope or not?,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/47278?McasTsid=26110&McasCtx=4,47278,,,,,Charging Model,,No ETL - as 55677 states,1,55677,Passed across to DM 10/03/25,,47278,Done,Y,,Done
+Service Item Family,ServiceItemFamily__c,177,Active, ,ETL dev required,Build Task - RapidXtra to Aptumo charge migration,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/33501?McasTsid=26110&McasCtx=4,38506,46631,33501, ,,Charging Model,38506,33501 & 46631,1,55678,"Ready to pass across - need to pass across with Service Item Type
+
+REV V3 passed across Mon 24/03",,,Done,Y,,Need to pass across with Service Item Type.  Sundries updated.
+Service Item Type,ServiceItemType__c,0,Active, ,ETL dev required,Build Task - RapidXtra to Aptumo charge migration, ,33501,45091,, ,,Charging Model,38479 & 43209,55981 - 33501 & 45901 & 55981,2,55680,"Can't sign off yet - see actions 55944 (Steve G) and 55945 (Rob) &- Steve G to provide the ADO tickets - DM ETL ticket created
+
+REV V3 passed across on Mon 24/03
+55945 - open - Sundries",,55944 & 55945,Done,Y,,Review in meeting - 55945
+Skip Code,SkipCode__c,0,Active,,,,,45596,,,,,,45596 & 38492 & 43182 & 39003 & 39006 & 39004 & 42371 & 42374 & 42373,56355,1,55683,"Ready to pass across - need new spreadsheet - Update US where no Case.  Just check on 55683 - final confirmation from Stacey.  Jenny cross referencing with User Stories.
+
+REV3 passed across 26/03
+
+Check we can sign off now Wiki & US updated",,,Done,,Not used in ETL - low impact,Review in meeting - 55683
+Consideration Type,ConsiderationType__c,35,Active,Awaiting PSR design decision,ETL dev required,ETL Build Task - New logic required to map the cspecneeds (Special needs) to the PSR list of values.,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/37079?McasTsid=26110&McasCtx=4,37079,,,,,,38485 & 43181,56693/56687/37079,3,55684,Passed across to DM 14/03/25,,,Done,,,Done
+Available Payment Day,AvailablePaymentDay__c,5,Active,ETL Dev required,ETL dev required,Build Task: Available Payment config into ETL,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52451?McasTsid=26110&McasCtx=4,38542,43127,52451,,,,38542 & 43127,52451,2,55685,"See 55689 
+REV3 passed across 26/03",,,Done,,,Meeting requested with PMO
+Payment Method Type,PaymentMethodType__c,5,Active,,ETL dev required,Build task: Available Payment Method Type,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52452?McasTsid=26110&McasCtx=4,52452,,,,,,38497 & 43189 & 41878 & 41876,52452,2,55686,"See 55689
+
+REV3 passed across 26/03",,53245,Done,,,Meeting requested with PMO
+Payment Method,PaymentMethod__c,0,Active,,ETL dev required,Build Task: Payment Method,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52453?McasTsid=26110&McasCtx=4,41878,52453,,,,,41878 & 38520 & 49536 & 41719 & 53419,52453,2,55688,"See 55689
+REV3 passed across 26/03",,53245 & 36315,Done,,,Meeting requested with PMO
+Payment Plan Type,PaymentPlanType__c,45,Active,,ETL dev required,Build Task : Payment Plan Type,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52455?McasTsid=26110&McasCtx=4,41876,41879,52455,,,,41879 & 41876 & 38546 & 52384 &43152,52455,2,55689,"Jenny reviewing COMD and Jenna's spreadsheet to bring into our Master Non Charging Model Ref Data Spreadsheet
+
+REV3 passed across 26/03",,53245 & 36315,Done,,,Review in meeting - 55689
+Bank Branch,BankBranch__c,1,Complete,Confirmed by SWW that Bank Branches will be required - code to be removed from ETL,ETL dev required,,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/52509?McasTsid=26110&McasCtx=4,43014,39874,52509,,,,43014 & 39874,52509,3,55690,Passed across to DM 10/03/25,,,Done - US?,,,Done
+Service Item Tolerance,ServiceItemTolerance__c,20,Active,,ETL dev required,Build Task: ServiceItemTolerance,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52456?McasTsid=26110&McasCtx=4,43121,37480,38529,33483,52456,Charging Model,43121 & 37480 & 38529,52456,2,55770,Passed across to DM 10/03/25,,,Done,Y,,Done
+Financial Transaction Event Type,FinancialTransactionEventType__c,49,Active,,ETL dev required,Build Task: Financial Transaction Event Type,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52457?McasTsid=26110&McasCtx=4,38539,52457,,,,,43207 & 38539,54032 & 52457,2 & 3,55789,List is up to date - may be a reverse charge value added post March - keeping ticket open until then - SMD 2025/03/12,,,Done,,,EMS to review
+Work Order Settings,WorkOrderSettings__c,0,Complete,,ETL dev required,Build Task: Work Order Settings,https://dev.azure.com.mcas.ms/southwestwater/CEP%20Solution/_workitems/edit/52458?McasTsid=26110&McasCtx=4,52458,,,,,,,52458,2,55790,Passed across to DM 10/03/25 (removed as not relevant),,,Done - US?,,,Done
+Template Mapping,TemplateMapping__c,0,N/A,Accenture task,ETL dev required,Build Task: Template Mapping,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/52459?McasTsid=26110&McasCtx=4,52459,,,,,,,52459,2,55792,Passed across to DM 10/03/25 (for ACN),,,Done - US?,,,Done
+Template Setting,TemplateSetting__c,0,N/A,Accenture task,ETL dev required,Build Task: Template Setting,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/52460?McasTsid=26110&McasCtx=4,52460,,,,,,,52460 & 52459,2,55808,Passed across to DM 10/03/25 (for ACN),,,Done - US?,,,Done
+Bill Message,Bill Message__c,5,Active,SWW to clarify,ETL dev required,ETL Build Task - Bill messages from Rapid to Aptumo,https://southwestwater.visualstudio.com/CEP%20Solution/_workitems/edit/38313/,38313,,,,,,39302,38313,2,55812,Passed across to DM 17/03/25,,,Done - US?,,,Done
+Wholesaler,Wholesaler__c,10,Active,now with SR to dev ( 18/02/2025),ETL dev required,BUILD TASK: Data Migration Requirements to populate new 'Wholesaler' fields on key objects needs to be captured,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/45521?McasTsid=26110&McasCtx=4,48777,52372,34522,,,,38525 & 43183,52372 & 48777,2,55813,"Review actions listed out in 55813
+
+REV3 passed across 26/03
+
+Questons on 55813",,34522 & 45521,Done,,okay - some field dependencies,Review in meeting - 56420
+Retailer,Retailer__c,61,Active,SWW to clarify,ETL dev required,Build Task: Retailer,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/52462?McasTsid=26110&McasCtx=4,38503,52462,,,,,38503 & 43135,52462,2,55814,Passed across to DM 17/03/25,,,Done,,,Done
+Rate,Apt_UK__Rate__c,,Active,np,ETL dev required,Build Task: Rate,https://southwestwater.visualstudio.com.mcas.ms/CEP%20Solution/_workitems/edit/52463?McasTsid=26110&McasCtx=4,52463,43123,,,,Charging Model,38787 & 43123,52463,2,55815,"Can't sign off yet - see action 55947 (Rob/Steve), 56337, 56338
+
+REV V3 passed across Mon 24/03
+55947 open - rates/sundries - 56337 & 56338",,55947,Done,Y,,Review the tickets
+Allowance Types,Apt_UK__AllowanceType__c,,Active,Need to load service item family and supply point usage type FIRST before this can be loaded,,,,55184,,,,,Charging Model,38507 & 43128,55184 & 38249 & 44108 & 44105,2,55816,Passed across to DM 10/03/25,,36158,Done, ,,Done
+Discount,Apt_UK__Discount__c,,Complete,Nothing to migrate from Rapid - this is in the DOMD ( SMD 18/03/2025),,,,55185,,,,,Charging Model,,55185,2,55817,Passed across to DM 10/03/25  - the ticket 558217 refers to Discount Type not Discount,,,Done,,,Done
+Discount Type  ,Apt_UK_DiscountType__C,,,,,,,,,,,,,,55185,2,55817,Passed across to DM 10/03/25,,,,,,
+Default Book, ,,Active,,,"From: Medford, Ruth <rmedford@pennon-group.co.uk> -- Sent: 20 February 2025 09:02",,54038,56434,,,,,,54038 & 55818,,55818,"Review actions #56434 & #56435
+
+REV3 passed across 26/03 - deprecate - being managed as part of Transformation",,,Done - US?,"#56434 - Andy
+#56435 - Steve G
+#54038 - Iwan",,JB is refrencing Master Data - not static.  Ref data references Master Data.  Should it be an Extract & Transform at Go Live?  ETL built - Rapid Table.  Steve G - checking with Neil & Stephen.
+Discount Type Items,Apt_UK__DiscountTypeItem__c,,Active,DOMD,ETL dev required,,,,,,,,Charging Model,38489 & 43122,55923,1,55922,Passed across to DM 10/03/25,,,Done,,,Done
+Division,Apt_UK__Division__c,,Active,COMD ,ETL dev required,The values are generated  in the ETL - any changes in the COMD will need require updating - Satendra to investigate,,,,,,,Charging Model,38528 & 43165,55935,1,55926,Passed across to DM 10/03/25,,,Done,,,Done
+Service Type,Apt_UK__ServiceType__c,,Active,DOMD,ETL dev required,The values are generated  in the ETL - any changes in the COMD will need require updating,,,,,,,Charging Model,No User Stories,55958,1,55928,Passed across to DM 10/03/25,,,Done,,,Done
+Rate Band,Apt_UK__RateBand__c,,Active,DOMD structure - values in this COMD,ETL dev required,,,,,,,,Charging Model,,,1,56346,"This cannot be signed off yet as has a dependency on Rates.
+
+REV V3 passed across Mon 24/03",,,Done,Y,,Dependency
+Tax,Apt_UK__Tax__c,,Active,DOMD structure - values in this COMD,ETL dev required,,,,,,,,Charging Model,,,1,56342,"Can't be signed off until Service Item Type is signed off
+
+REV V3 passed across Mon 24/03.",,,Done,,,Need Service Item Type to be signed off
+Tax Classification Type,Apt_UK__TaxClassificationType__c,,Active,DOMD structure - values in this COMD,ETL dev required,,,,,,,,Charging Model,,,1,56345,"Can't be signed off until Service Item Type is signed off.
+
+REV V3 passed across Mon 24/03",,,Done,,,Need Service Item Type to be signed off
+Device Type,Apt_UK__DeviceType__c, ,Active,DOMD,,,,,,,,,,,,,,"This in the DOMD and believe EMS are constructing the Data.  Constructed set of data in Transformation - this should be Ref Data.  Discuss with EMS and review the logic design.  Being constructed during Transformation - creating records with no Manufacturer - is this correct.
+
+Not in the Non Charging Model Ref Data Spreadsheet REV3 V3 
+ ",,,Done,,,#56436
+Available Bundle,,,,,,,,,,,,,,,37076,1,,Not in REV V3,,,Done,,,
+Discount Type Item,Apt_UK__DiscountTypeItem__c,,Active ,COMD,ETL Dev required,awaiting service item type finalisation,,,,,,,,,55923,55922,,Not in REV V3,,,,,,
+Depot,,,,,,,,,,,,,,,,,,"In DOMD - is this Reference Data?  No open actions in the DOMD at the moment.
+Check if this is Ref Data",,,Done - US?,,,

@@ -1,178 +1,178 @@
-﻿StagingRef__c,Name,ServiceTypeStagingRef__c,Apt_UK__AlgorithmType__c,Apt_UK__ServiceItemFamilyDescription__c,Apt_UK__StartDate__c,Apt_UK__EndDate__c,Apt_UK__PaymentPostingCategory__c,Apt_UK__PaymentPostingPriority__c,Apt_UK__Reccuring__c,Apt_UK__RecurrenceFrequency__c,Apt_UK__UoM__c,Apt_UK__AnnualAdvanceBillingDate__c,Apt_UK__AnnualAdvanceAccrualDate__c
-SIF001,BW HH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - Household - Measured - Water - Fixed,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF002,BW HH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - Household - Measured - Water - Volume,01/04/2017,,3,3,Yes,Yearly,Per M3,,
-SIF003,BW HH Legacy Meas Wat WaterCare Fixed,ST01,Measured Fixed Charge,Bournemouth Water - Household - Legacy - Measured - Water - WaterCare - Fixed,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF004,BW HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,Bournemouth Water - Household - Legacy - Measured - Water - WaterCare - Volume,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF005,BW HH Meas Wat WaterSure,ST01,Measured Fixed Charge,Bournemouth Water - Household - Measured - Water - WaterSure,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF006,BW HH Unm Wat Assessed Fixed,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Asssesed (Unmeasured) - Water - Fixed,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF007,BW HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Asssesed (Unmeasured) - Water - Volume,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF008,BW HH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Unmeasured - Water - Fixed,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF009,BW HH Unm Wat Variable,ST01,Unmeasured Billing,Bournemouth Water - Household - Unmeasured - Water - Variable,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF010,BW HH Legacy Unm Wat WaterCare,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Legacy - Asssesed (Unmeasured)  - Water - WaterCare,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF011,BW HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Unmeasured - Water - WaterSure,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF012,SWW HH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - NSW - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF013,SWW HH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - NSW - Single,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF014,SWW HH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - SWD - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF015,SWW HH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - SWD - Single,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF016,SWW HH Legacy Meas Sew Manual Fixed,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Manual - Fixed,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF017,SWW HH Legacy Meas Sew Manual Volume,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Manual - Volume,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF018,SWW HH Legacy Meas Sew RTS NSW,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - NSW,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF019,SWW HH Legacy Meas Sew RTS SWD,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - SWD,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF020,SWW HH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - Household - Measured - Sewerage - Volume - NSW,01/04/2017,,3,3,Yes,Yearly,Per M3,,
-SIF021,SWW HH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - Household - Measured - Sewerage - Volume - SWD,01/04/2017,,3,3,Yes,Yearly,Per M3,,
-SIF022,SWW HH Legacy Meas Sew WaterCare Fixed NSW - Dual,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - NSW - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF023,SWW HH Legacy Meas Sew WaterCare Fixed NSW - Single,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - NSW - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF024,SWW HH Legacy Meas Sew WaterCare Fixed SWD - Dual,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - SWD - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF025,SWW HH Legacy Meas Sew WaterCare Fixed SWD - Single,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - SWD - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF026,SWW HH Legacy Meas Sew WaterCare RTS NSW,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - NSW,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF027,SWW HH Legacy Meas Sew WaterCare RTS SWD,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - SWD,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF028,SWW HH Legacy Meas Sew WaterCare Volume NSW,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - NSW,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF029,SWW HH Legacy Meas Sew WaterCare Volume SWD,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - SWD,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF030,SWW HH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,South West Water - Household - Measured - Water - Fixed - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF031,SWW HH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,South West Water - Household - Measured - Water - Fixed - Single,01/04/2017,,3,3,Yes,Yearly,Annual,,
-SIF032,SWW HH Legacy Meas Wat Manual Fixed,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - Manual - Fixed,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF033,SWW HH Legacy Meas Wat Manual Volume,ST01,Measured Billing,South West Water - Household - Legacy - Measured - Water - Manual - Volume,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF034,SWW HH Meas Wat Volume,ST01,Measured Billing,South West Water - Household - Measured - Water - Volume,01/04/2017,,3,3,Yes,Yearly,Per M3,,
-SIF035,SWW HH Legacy Meas Wat WaterCare Fixed - Dual,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - WaterCare - Fixed - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF036,SWW HH Legacy Meas Wat WaterCare Fixed - Single,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - WaterCare - Fixed - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF037,SWW HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,South West Water - Household - Legacy - Measured - Water - WaterCare - Volume,01/04/2017,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF038,SWW HH Unm Sew Assessed Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF039,SWW HH Unm Sew Assessed Fixed NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF040,SWW HH Unm Sew Assessed Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF041,SWW HH Unm Sew Assessed Fixed SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF042,SWW HH Unm Sew Assessed Volume NSW,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Volume - NSW,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF043,SWW HH Unm Sew Assessed Volume SWD,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Volume - SWD,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF044,SWW HH Unm Sew Assist,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Assist,01/04/2024,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF045,SWW HH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Variable - NSW,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF046,SWW HH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Fixed - NSW - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF047,SWW HH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Fixed - SWD - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF048,SWW HH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household -Unmeasured - Sewerage - Fixed - SWD - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF049,SWW HH Unm Sew Variable NSW,ST02,Unmeasured Billing,South West Water - Household - Unmeasured - Sewerage - Variable - NSW,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF050,SWW HH Unm Sew Variable SWD,ST02,Unmeasured Billing,South West Water - Household - Unmeasured - Sewerage - Variable - SWD,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF051,SWW HH Legacy Unm Sew WaterCare NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF052,SWW HH Legacy Unm Sew WaterCare NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF053,SWW HH Legacy Unm Sew WaterCare SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF054,SWW HH Legacy Unm Sew WaterCare SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF055,SWW HH Unm Sew WaterSure,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - WaterSure,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF056,SWW HH Unm Wat Assessed Fixed - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Fixed - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF057,SWW HH Unm Wat Assessed Fixed - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Fixed - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF058,SWW HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Volume,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF059,SWW HH Unm Wat Assist,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Assist,01/04/2024,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF060,SWW HH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Fixed - Dual,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF061,SWW HH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Fixed - Single,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF062,SWW HH Unm Wat Variable,ST01,Unmeasured Billing,South West Water - Household - Unmeasured - Water - Variable,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF063,SWW HH Legacy Unm Wat WaterCare - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Dual,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF064,SWW HH Legacy Unm Wat WaterCare - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Single,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF065,SWW HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - WaterSure,01/04/2017,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF066,IOS NH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - NSW - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF067,IOS NH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - NSW - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF068,IOS NH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - SWD - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF069,IOS NH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - SWD - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF070,IOS NH Legacy Meas Sew RTS NSW,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Legacy - Measured - Sewerage - Fixed - RTS Discount - NSW,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF071,IOS NH Legacy Meas Sew RTS SWD,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Legacy - Measured - Sewerage - Fixed - RTS Discount - SWD,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF072,IOS NH Meas Sew Volume NSW,ST02,Measured Billing,Isles of Scilly - Non Household - Measured - Sewerage - Volume - NSW,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF073,IOS NH Meas Sew Volume SWD,ST02,Measured Billing,Isles of Scilly - Non Household - Measured - Sewerage - Volume - SWD,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF074,IOS NH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Water - Fixed - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF075,IOS NH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Water - Fixed - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF076,IOS NH Meas Wat Volume,ST01,Measured Billing,Isles of Scilly - Non Household - Measured - Water - Volume,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF077,IOS NH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - NSW - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF078,IOS NH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - NSW - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF079,IOS NH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - SWD - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF080,IOS NH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household -Unmeasured - Sewerage - Fixed - SWD - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF081,IOS NH Unm Sew Variable NSW,ST02,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Sewerage - Variable - NSW,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF082,IOS NH Unm Sew Variable SWD,ST02,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Sewerage - Variable - SWD,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF083,IOS NH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Water - Fixed - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF084,IOS NH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly- Non Household - Unmeasured - Water - Fixed - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF085,IOS NH Unm Wat Variable,ST01,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Water - Variable,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF086,WBT HH Meas Wat Fixed,ST01,Measured Fixed Charge,Westonbirt - Household - Measured - Water - Fixed,01/04/2022,,3,3,Yes,Yearly,Annual,,
-SIF087,WBT HH Meas Wat Volume,ST01,Measured Billing,Westonbirt - Household - Measured - Water - Volume,01/04/2022,,3,3,Yes,Yearly,Per M3,,
-SIF088,WBT HH Unm Wat Assessed Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Assessed (Unmeasured) - Water - Fixed,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF089,WBT HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Assessed (Unmeasured) - Water - Volume,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF090,WBT HH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Unmeasured - Water - Fixed,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF091,WBT HH Unm Wat Variable,ST01,Unmeasured Billing,Westonbirt - Household - Unmeasured - Water - Variable,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF092,WBT NH Meas Wat Fixed,ST01,Measured Fixed Charge,Westonbirt - Non Household - Measured - Water - Fixed,01/04/2022,,3,3,Yes,Yearly,Annual,,
-SIF093,WBT NH Meas Wat Volume,ST01,Measured Billing,Westonbirt - Non Household - Measured - Water - Volume,01/04/2022,,3,3,Yes,Yearly,Per M3,,
-SIF094,WBT NH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Non Household - Unmeasured - Water - Fixed,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF095,WBT NH Unm Wat Variable,ST01,Unmeasured Billing,Westonbirt - Non Household - Unmeasured - Water - Variable,01/04/2022,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF096,IOS HH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Measured - Sewerage - Fixed - NSW - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF097,IOS HH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - NSW - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF098,IOS HH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - SWD - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF099,IOS HH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - SWD - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF100,IOS HH Meas Sew Volume NSW,ST02,Measured Billing,Isles of Scilly  - Household - Measured - Sewerage - Volume - NSW,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF101,IOS HH Meas Sew Volume SWD,ST02,Measured Billing,Isles of Scilly  - Household - Measured - Sewerage - Volume - SWD,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF102,IOS HH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Water - Fixed - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF103,IOS HH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Water - Fixed - Single,01/04/2020,,3,3,Yes,Yearly,Annual,,
-SIF104,IOS HH Meas Wat Volume,ST01,Measured Billing,Isles of Scilly  - Household - Measured - Water - Volume,01/04/2020,,3,3,Yes,Yearly,Per M3,,
-SIF105,IOS HH Unm Sew Assessed Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF106,IOS HH Unm Sew Assessed Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF107,IOS HH Unm Sew Assessed Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF108,IOS HH Unm Sew Assessed Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF109,IOS HH Unm Sew Assessed Volume NSW,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Volume - NSW,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF110,IOS HH Unm Sew Assessed Volume SWD,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Volume - SWD,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF111,IOS HH Unm Sew Assist,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Assist,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF112,IOS HH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - NSW - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF113,IOS HH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - NSW - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF114,IOS HH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - SWD - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF115,IOS HH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household -Unmeasured - Sewerage - Fixed - SWD - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF116,IOS HH Unm Sew Variable NSW,ST02,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Sewerage - Variable - NSW,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF117,IOS HH Unm Sew Variable SWD,ST02,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Sewerage - Variable - SWD,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF118,IOS HH Unm Sew WaterSure,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - WaterSure,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF119,IOS HH Unm Wat Assessed Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Fixed - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF120,IOS HH Unm Wat Assessed Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Fixed - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF121,IOS HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Volume,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF122,IOS HH Unm Wat Assist,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Assist,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF123,IOS HH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Fixed - Dual,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF124,IOS HH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Fixed - Single,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF125,IOS HH Unm Wat Variable,ST01,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Water - Variable,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF126,IOS HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - WaterSure,01/04/2020,,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF127,SWW HH Sundry - GC50,ST03,Sundry,South West Water - Household - GC50,01/04/2017,31/03/2025,5,3,No,,Quantity,,
-SIF128,SWW HH Sundry - Court,ST03,Sundry,South West Water - Household - Court,01/04/2017,,2,3,No,,Quantity,,
-SIF129,BW HH Sundry - Court ,ST03,Sundry,Bournemouth Water - Household - Court,01/04/2017,,2,3,No,,Quantity,,
-SIF130,IOS HH Sundry - Court,ST03,Sundry,Isles of Scilly  - Household - Court,01/04/2020,,2,3,No,,Quantity,,
-SIF131,IOS NH Sundry - Court,ST03,Sundry,Isles of Scilly - Non Household - Court,01/04/2020,,2,3,No,,Quantity,,
-SIF132,SWW HH Sundry - Legacy Court,ST03,Sundry,South West Water - Household - Legacy Court,01/04/2017,,2,3,No,,Quantity,,
-SIF133,BW NAV HH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - NAV - Household - Measured - Water - Fixed,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF134,BW NAV NH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - NAV - Non Household - Measured - Water - Fixed,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF135,SWW NAV HH Meas Wat Fixed,ST01,Measured Fixed Charge,South West Water - NAV - Household - Measured - Water - Fixed,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF136,SWW NAV NH Meas Wat Fixed,ST01,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Water - Fixed,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF137,BW NAV HH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - NAV - Household - Measured - Water - Volume,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF138,BW NAV NH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - NAV - Non Household - Measured - Water - Volume,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF139,SWW NAV HH Meas Wat Volume,ST01,Measured Billing,South West Water - NAV - Household - Measured - Water - Volume,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF140,SWW NAV NH Meas Wat Volume,ST01,Measured Billing,South West Water - NAV - Non Household - Measured - Water - Volume,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF141,SWW NAV HH Meas Sew Fixed NSW,ST02,Measured Fixed Charge,South West Water - NAV - Household - Measured - Sewerage - Fixed - NSW,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF142,SWW NAV NH Meas Sew Fixed NSW,ST02,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Sewerage - Fixed - NSW,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF143,SWW NAV HH Meas Sew Fixed SWD,ST02,Measured Fixed Charge,South West Water - NAV - Household - Measured - Sewerage - Fixed - SWD,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF144,SWW NAV NH Meas Sew Fixed SWD,ST02,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Sewerage - Fixed - SWD,01/04/2021,,3,3,Yes,Yearly,Annual,,
-SIF145,SWW NAV HH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - NAV - Household - Measured - Sewerage - Volume - NSW,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF146,SWW NAV HH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - NAV - Non Household - Measured - Sewerage - Volume - NSW,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF147,SWW NAV NH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - NAV - Household - Measured - Sewerage - Volume - SWD,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF148,SWW NAV NH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - NAV - Non Household - Measured - Sewerage - Volume - SWD,01/04/2021,,3,3,Yes,Yearly,Per M3,,
-SIF149,IOS HH Legacy Meas Sew Manual Fixed,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Manual - Fixed,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF150,IOS HH Legacy Meas Sew Manual Volume,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Manual - Volume,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF151,IOS HH Legacy Meas Sew RTS NSW,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - NSW,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF152,IOS HH Legacy Meas Sew RTS SWD,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - SWD,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF153,IOS HH Legacy Meas Sew WaterCare Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - NSW - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF154,IOS HH Legacy Meas Sew WaterCare Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - NSW - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF155,IOS HH Legacy Meas Sew WaterCare Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - SWD - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF156,IOS HH Legacy Meas Sew WaterCare Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - SWD - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF157,IOS HH Legacy Meas Sew WaterCare RTS NSW,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - NSW,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF158,IOS HH Legacy Meas Sew WaterCare RTS SWD,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - SWD,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF159,IOS HH Legacy Meas Sew WaterCare Volume NSW,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - NSW,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF160,IOS HH Legacy Meas Sew WaterCare Volume SWD,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - SWD,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,31/03/2026,31/03/2026
-SIF161,IOS HH Legacy Meas Wat WaterCare Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Fixed - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF162,IOS HH Legacy Meas Wat WaterCare Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Fixed - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF163,IOS HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Volume,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF164,IOS HH Legacy Unm Sew WaterCare NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF165,IOS HH Legacy Unm Sew WaterCare NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF166,IOS HH Legacy Unm Sew WaterCare SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly- Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF167,IOS HH Legacy Unm Sew WaterCare SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly- Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF168,IOS HH Legacy Unm Wat WaterCare - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Dual,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF169,IOS HH Legacy Unm Wat WaterCare - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Single,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,31/03/2026,31/03/2026
-SIF170,IOS HH Legacy Meas Wat Manual Fixed,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - Manual - Fixed,01/04/2020,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF171,IOS HH Legacy Meas Wat Manual Volume,ST01,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Water - Manual - Volume,01/04/2020,01/10/2025,3,3,Yes,Yearly,Per M3,,
-SIF172,BW HH Legacy Meas Take On,ST01,Measured Fixed Charge,Bournemouth Water - Household - Legacy - Measured - Take On,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF173,BW HH Legacy Unm Take On,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Legacy - Unmeasured - Take On,01/04/2017,01/10/2025,3,3,Yes,Yearly,Annual,,
-SIF174,BW Legacy Migration Placeholder ,ST03,Sundry,Bournemouth Water - Legacy - Migration - Placeholder,01/04/2017,01/10/2025,3,3,No,,Quantity,,
-SIF175,SWW Legacy Migration Placeholder ,ST03,Sundry,South West Water - Legacy - Migration - Placeholder,01/04/2017,01/10/2025,3,3,No,,Quantity,,
-SIF176,IOS Legacy Migration Placeeholder ,ST03,Sundry,Isles of Scilly - Legacy - Migration - Placeholder,01/04/2020,01/10/2025,3,3,No,,Quantity,,
-SIF177,WBT Legacy Migration Placeeholder ,ST03,Sundry,Westonbirt - Legacy - Migration - Placeholder,01/04/2022,01/10/2025,3,3,No,,Quantity,,
+StagingRef__c,Name,ServiceTypeStagingRef__c,Apt_UK__AlgorithmType__c,Apt_UK__ServiceItemFamilyDescription__c,Apt_UK__StartDate__c,Apt_UK__EndDate__c,Apt_UK__PaymentPostingCategory__c,Apt_UK__PaymentPostingPriority__c,Apt_UK__Reccuring__c,Apt_UK__RecurrenceFrequency__c,Apt_UK__UoM__c,Apt_UK__AnnualAdvanceBillingDate__c,Apt_UK__AnnualAdvanceAccrualDate__c
+SIF001,BW HH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - Household - Measured - Water - Fixed,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF002,BW HH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - Household - Measured - Water - Volume,2017/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF003,BW HH Legacy Meas Wat WaterCare Fixed,ST01,Measured Fixed Charge,Bournemouth Water - Household - Legacy - Measured - Water - WaterCare - Fixed,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF004,BW HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,Bournemouth Water - Household - Legacy - Measured - Water - WaterCare - Volume,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF005,BW HH Meas Wat WaterSure,ST01,Measured Fixed Charge,Bournemouth Water - Household - Measured - Water - WaterSure,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF006,BW HH Unm Wat Assessed Fixed,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Asssesed (Unmeasured) - Water - Fixed,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF007,BW HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Asssesed (Unmeasured) - Water - Volume,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF008,BW HH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Unmeasured - Water - Fixed,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF009,BW HH Unm Wat Variable,ST01,Unmeasured Billing,Bournemouth Water - Household - Unmeasured - Water - Variable,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF010,BW HH Legacy Unm Wat WaterCare,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Legacy - Asssesed (Unmeasured)  - Water - WaterCare,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF011,BW HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Unmeasured - Water - WaterSure,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF012,SWW HH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - NSW - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF013,SWW HH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - NSW - Single,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF014,SWW HH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - SWD - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF015,SWW HH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,South West Water - Household - Measured - Sewerage - Fixed - SWD - Single,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF016,SWW HH Legacy Meas Sew Manual Fixed,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Manual - Fixed,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF017,SWW HH Legacy Meas Sew Manual Volume,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Manual - Volume,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF018,SWW HH Legacy Meas Sew RTS NSW,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - NSW,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF019,SWW HH Legacy Meas Sew RTS SWD,ST02,Measured Billing,South West Water - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - SWD,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF020,SWW HH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - Household - Measured - Sewerage - Volume - NSW,2017/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF021,SWW HH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - Household - Measured - Sewerage - Volume - SWD,2017/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF022,SWW HH Legacy Meas Sew WaterCare Fixed NSW - Dual,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - NSW - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF023,SWW HH Legacy Meas Sew WaterCare Fixed NSW - Single,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - NSW - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF024,SWW HH Legacy Meas Sew WaterCare Fixed SWD - Dual,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - SWD - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF025,SWW HH Legacy Meas Sew WaterCare Fixed SWD - Single,ST02,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Sewerage - Fixed - SWD - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF026,SWW HH Legacy Meas Sew WaterCare RTS NSW,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - NSW,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF027,SWW HH Legacy Meas Sew WaterCare RTS SWD,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - SWD,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF028,SWW HH Legacy Meas Sew WaterCare Volume NSW,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - NSW,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF029,SWW HH Legacy Meas Sew WaterCare Volume SWD,ST02,Unmeasured Billing,South West Water - Household - Legacy - Measured - Sewerage - WaterCare - Volume - SWD,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF030,SWW HH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,South West Water - Household - Measured - Water - Fixed - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF031,SWW HH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,South West Water - Household - Measured - Water - Fixed - Single,2017/04/01,,3,3,Yes,Yearly,Annual,,
+SIF032,SWW HH Legacy Meas Wat Manual Fixed,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - Manual - Fixed,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF033,SWW HH Legacy Meas Wat Manual Volume,ST01,Measured Billing,South West Water - Household - Legacy - Measured - Water - Manual - Volume,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF034,SWW HH Meas Wat Volume,ST01,Measured Billing,South West Water - Household - Measured - Water - Volume,2017/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF035,SWW HH Legacy Meas Wat WaterCare Fixed - Dual,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - WaterCare - Fixed - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF036,SWW HH Legacy Meas Wat WaterCare Fixed - Single,ST01,Measured Fixed Charge,South West Water - Household - Legacy - Measured - Water - WaterCare - Fixed - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF037,SWW HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,South West Water - Household - Legacy - Measured - Water - WaterCare - Volume,2017/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF038,SWW HH Unm Sew Assessed Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF039,SWW HH Unm Sew Assessed Fixed NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF040,SWW HH Unm Sew Assessed Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF041,SWW HH Unm Sew Assessed Fixed SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF042,SWW HH Unm Sew Assessed Volume NSW,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Volume - NSW,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF043,SWW HH Unm Sew Assessed Volume SWD,ST02,Unmeasured Fixed Charge,South West Water - Household - Asssesed (Unmeasured) - Sewerage - Volume - SWD,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF044,SWW HH Unm Sew Assist,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Assist,2024/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF045,SWW HH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Variable - NSW,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF046,SWW HH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Fixed - NSW - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF047,SWW HH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - Fixed - SWD - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF048,SWW HH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household -Unmeasured - Sewerage - Fixed - SWD - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF049,SWW HH Unm Sew Variable NSW,ST02,Unmeasured Billing,South West Water - Household - Unmeasured - Sewerage - Variable - NSW,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF050,SWW HH Unm Sew Variable SWD,ST02,Unmeasured Billing,South West Water - Household - Unmeasured - Sewerage - Variable - SWD,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF051,SWW HH Legacy Unm Sew WaterCare NSW - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF052,SWW HH Legacy Unm Sew WaterCare NSW - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF053,SWW HH Legacy Unm Sew WaterCare SWD - Dual,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF054,SWW HH Legacy Unm Sew WaterCare SWD - Single,ST02,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF055,SWW HH Unm Sew WaterSure,ST02,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Sewerage - WaterSure,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF056,SWW HH Unm Wat Assessed Fixed - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Fixed - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF057,SWW HH Unm Wat Assessed Fixed - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Fixed - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF058,SWW HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,South West Water - Household - Assessed (Unmeasured) - Water - Volume,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF059,SWW HH Unm Wat Assist,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Assist,2024/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF060,SWW HH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Fixed - Dual,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF061,SWW HH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - Fixed - Single,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF062,SWW HH Unm Wat Variable,ST01,Unmeasured Billing,South West Water - Household - Unmeasured - Water - Variable,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF063,SWW HH Legacy Unm Wat WaterCare - Dual,ST01,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Dual,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF064,SWW HH Legacy Unm Wat WaterCare - Single,ST01,Unmeasured Fixed Charge,South West Water - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Single,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF065,SWW HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,South West Water - Household - Unmeasured - Water - WaterSure,2017/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF066,IOS NH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - NSW - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF067,IOS NH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - NSW - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF068,IOS NH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - SWD - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF069,IOS NH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Sewerage - Fixed - SWD - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF070,IOS NH Legacy Meas Sew RTS NSW,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Legacy - Measured - Sewerage - Fixed - RTS Discount - NSW,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF071,IOS NH Legacy Meas Sew RTS SWD,ST02,Measured Fixed Charge,Isles of Scilly - Non Household - Legacy - Measured - Sewerage - Fixed - RTS Discount - SWD,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF072,IOS NH Meas Sew Volume NSW,ST02,Measured Billing,Isles of Scilly - Non Household - Measured - Sewerage - Volume - NSW,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF073,IOS NH Meas Sew Volume SWD,ST02,Measured Billing,Isles of Scilly - Non Household - Measured - Sewerage - Volume - SWD,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF074,IOS NH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Water - Fixed - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF075,IOS NH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly - Non Household - Measured - Water - Fixed - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF076,IOS NH Meas Wat Volume,ST01,Measured Billing,Isles of Scilly - Non Household - Measured - Water - Volume,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF077,IOS NH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - NSW - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF078,IOS NH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - NSW - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF079,IOS NH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Sewerage - Fixed - SWD - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF080,IOS NH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Non Household -Unmeasured - Sewerage - Fixed - SWD - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF081,IOS NH Unm Sew Variable NSW,ST02,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Sewerage - Variable - NSW,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF082,IOS NH Unm Sew Variable SWD,ST02,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Sewerage - Variable - SWD,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF083,IOS NH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly - Non Household - Unmeasured - Water - Fixed - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF084,IOS NH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly- Non Household - Unmeasured - Water - Fixed - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF085,IOS NH Unm Wat Variable,ST01,Unmeasured Billing,Isles of Scilly - Non Household - Unmeasured - Water - Variable,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF086,WBT HH Meas Wat Fixed,ST01,Measured Fixed Charge,Westonbirt - Household - Measured - Water - Fixed,2022/04/01,,3,3,Yes,Yearly,Annual,,
+SIF087,WBT HH Meas Wat Volume,ST01,Measured Billing,Westonbirt - Household - Measured - Water - Volume,2022/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF088,WBT HH Unm Wat Assessed Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Assessed (Unmeasured) - Water - Fixed,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF089,WBT HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Assessed (Unmeasured) - Water - Volume,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF090,WBT HH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Household - Unmeasured - Water - Fixed,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF091,WBT HH Unm Wat Variable,ST01,Unmeasured Billing,Westonbirt - Household - Unmeasured - Water - Variable,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF092,WBT NH Meas Wat Fixed,ST01,Measured Fixed Charge,Westonbirt - Non Household - Measured - Water - Fixed,2022/04/01,,3,3,Yes,Yearly,Annual,,
+SIF093,WBT NH Meas Wat Volume,ST01,Measured Billing,Westonbirt - Non Household - Measured - Water - Volume,2022/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF094,WBT NH Unm Wat Fixed,ST01,Unmeasured Fixed Charge,Westonbirt - Non Household - Unmeasured - Water - Fixed,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF095,WBT NH Unm Wat Variable,ST01,Unmeasured Billing,Westonbirt - Non Household - Unmeasured - Water - Variable,2022/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF096,IOS HH Meas Sew Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Measured - Sewerage - Fixed - NSW - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF097,IOS HH Meas Sew Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - NSW - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF098,IOS HH Meas Sew Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - SWD - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF099,IOS HH Meas Sew Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Sewerage - Fixed - SWD - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF100,IOS HH Meas Sew Volume NSW,ST02,Measured Billing,Isles of Scilly  - Household - Measured - Sewerage - Volume - NSW,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF101,IOS HH Meas Sew Volume SWD,ST02,Measured Billing,Isles of Scilly  - Household - Measured - Sewerage - Volume - SWD,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF102,IOS HH Meas Wat Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Water - Fixed - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF103,IOS HH Meas Wat Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly  - Household - Measured - Water - Fixed - Single,2020/04/01,,3,3,Yes,Yearly,Annual,,
+SIF104,IOS HH Meas Wat Volume,ST01,Measured Billing,Isles of Scilly  - Household - Measured - Water - Volume,2020/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF105,IOS HH Unm Sew Assessed Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF106,IOS HH Unm Sew Assessed Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - NSW - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF107,IOS HH Unm Sew Assessed Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF108,IOS HH Unm Sew Assessed Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Fixed - SWD - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF109,IOS HH Unm Sew Assessed Volume NSW,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Volume - NSW,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF110,IOS HH Unm Sew Assessed Volume SWD,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Asssesed (Unmeasured) - Sewerage - Volume - SWD,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF111,IOS HH Unm Sew Assist,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Assist,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF112,IOS HH Unm Sew Fixed NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - NSW - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF113,IOS HH Unm Sew Fixed NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - NSW - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF114,IOS HH Unm Sew Fixed SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - Fixed - SWD - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF115,IOS HH Unm Sew Fixed SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household -Unmeasured - Sewerage - Fixed - SWD - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF116,IOS HH Unm Sew Variable NSW,ST02,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Sewerage - Variable - NSW,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF117,IOS HH Unm Sew Variable SWD,ST02,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Sewerage - Variable - SWD,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF118,IOS HH Unm Sew WaterSure,ST02,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Sewerage - WaterSure,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF119,IOS HH Unm Wat Assessed Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Fixed - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF120,IOS HH Unm Wat Assessed Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Fixed - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF121,IOS HH Unm Wat Assessed Volume,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Assessed (Unmeasured) - Water - Volume,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF122,IOS HH Unm Wat Assist,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Assist,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF123,IOS HH Unm Wat Fixed - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Fixed - Dual,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF124,IOS HH Unm Wat Fixed - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - Fixed - Single,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF125,IOS HH Unm Wat Variable,ST01,Unmeasured Billing,Isles of Scilly  - Household - Unmeasured - Water - Variable,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF126,IOS HH Unm Wat WaterSure,ST01,Unmeasured Fixed Charge,Isles of Scilly  - Household - Unmeasured - Water - WaterSure,2020/04/01,,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF127,SWW HH Sundry - GC50,ST03,Sundry,South West Water - Household - GC50,2017/04/01,2025/03/31,5,3,No,,Quantity,,
+SIF128,SWW HH Sundry - Court,ST03,Sundry,South West Water - Household - Court,2017/04/01,,2,3,No,,Quantity,,
+SIF129,BW HH Sundry - Court ,ST03,Sundry,Bournemouth Water - Household - Court,2017/04/01,,2,3,No,,Quantity,,
+SIF130,IOS HH Sundry - Court,ST03,Sundry,Isles of Scilly  - Household - Court,2020/04/01,,2,3,No,,Quantity,,
+SIF131,IOS NH Sundry - Court,ST03,Sundry,Isles of Scilly - Non Household - Court,2020/04/01,,2,3,No,,Quantity,,
+SIF132,SWW HH Sundry - Legacy Court,ST03,Sundry,South West Water - Household - Legacy Court,2017/04/01,,2,3,No,,Quantity,,
+SIF133,BW NAV HH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - NAV - Household - Measured - Water - Fixed,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF134,BW NAV NH Meas Wat Fixed,ST01,Measured Fixed Charge,Bournemouth Water - NAV - Non Household - Measured - Water - Fixed,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF135,SWW NAV HH Meas Wat Fixed,ST01,Measured Fixed Charge,South West Water - NAV - Household - Measured - Water - Fixed,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF136,SWW NAV NH Meas Wat Fixed,ST01,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Water - Fixed,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF137,BW NAV HH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - NAV - Household - Measured - Water - Volume,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF138,BW NAV NH Meas Wat Volume,ST01,Measured Billing,Bournemouth Water - NAV - Non Household - Measured - Water - Volume,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF139,SWW NAV HH Meas Wat Volume,ST01,Measured Billing,South West Water - NAV - Household - Measured - Water - Volume,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF140,SWW NAV NH Meas Wat Volume,ST01,Measured Billing,South West Water - NAV - Non Household - Measured - Water - Volume,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF141,SWW NAV HH Meas Sew Fixed NSW,ST02,Measured Fixed Charge,South West Water - NAV - Household - Measured - Sewerage - Fixed - NSW,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF142,SWW NAV NH Meas Sew Fixed NSW,ST02,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Sewerage - Fixed - NSW,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF143,SWW NAV HH Meas Sew Fixed SWD,ST02,Measured Fixed Charge,South West Water - NAV - Household - Measured - Sewerage - Fixed - SWD,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF144,SWW NAV NH Meas Sew Fixed SWD,ST02,Measured Fixed Charge,South West Water - NAV - Non Household - Measured - Sewerage - Fixed - SWD,2021/04/01,,3,3,Yes,Yearly,Annual,,
+SIF145,SWW NAV HH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - NAV - Household - Measured - Sewerage - Volume - NSW,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF146,SWW NAV HH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - NAV - Non Household - Measured - Sewerage - Volume - NSW,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF147,SWW NAV NH Meas Sew Volume NSW,ST02,Measured Billing,South West Water - NAV - Household - Measured - Sewerage - Volume - SWD,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF148,SWW NAV NH Meas Sew Volume SWD,ST02,Measured Billing,South West Water - NAV - Non Household - Measured - Sewerage - Volume - SWD,2021/04/01,,3,3,Yes,Yearly,Per M3,,
+SIF149,IOS HH Legacy Meas Sew Manual Fixed,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Manual - Fixed,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF150,IOS HH Legacy Meas Sew Manual Volume,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Manual - Volume,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF151,IOS HH Legacy Meas Sew RTS NSW,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - NSW,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF152,IOS HH Legacy Meas Sew RTS SWD,ST02,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - Volume - RTS Discount - SWD,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF153,IOS HH Legacy Meas Sew WaterCare Fixed NSW - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - NSW - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF154,IOS HH Legacy Meas Sew WaterCare Fixed NSW - Single,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - NSW - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF155,IOS HH Legacy Meas Sew WaterCare Fixed SWD - Dual,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - SWD - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF156,IOS HH Legacy Meas Sew WaterCare Fixed SWD - Single,ST02,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Sewerage - Fixed - SWD - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF157,IOS HH Legacy Meas Sew WaterCare RTS NSW,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - NSW,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF158,IOS HH Legacy Meas Sew WaterCare RTS SWD,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - RTS Discount - SWD,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF159,IOS HH Legacy Meas Sew WaterCare Volume NSW,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - NSW,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF160,IOS HH Legacy Meas Sew WaterCare Volume SWD,ST02,Unmeasured Billing,Isles of Scilly - Household - Legacy - Measured - Sewerage - WaterCare - Volume - SWD,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,2026/03/31,2026/03/31
+SIF161,IOS HH Legacy Meas Wat WaterCare Fixed - Dual,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Fixed - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF162,IOS HH Legacy Meas Wat WaterCare Fixed - Single,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Fixed - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF163,IOS HH Legacy Meas Wat WaterCare Volume,ST01,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Water - WaterCare - Volume,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF164,IOS HH Legacy Unm Sew WaterCare NSW - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF165,IOS HH Legacy Unm Sew WaterCare NSW - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - NSW - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF166,IOS HH Legacy Unm Sew WaterCare SWD - Dual,ST02,Unmeasured Fixed Charge,Isles of Scilly- Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF167,IOS HH Legacy Unm Sew WaterCare SWD - Single,ST02,Unmeasured Fixed Charge,Isles of Scilly- Household - Legacy - Unmeasured - Sewerage - WaterCare - Fixed - SWD - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF168,IOS HH Legacy Unm Wat WaterCare - Dual,ST01,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Dual,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF169,IOS HH Legacy Unm Wat WaterCare - Single,ST01,Unmeasured Fixed Charge,Isles of Scilly - Household - Legacy - Unmeasured - Water - WaterCare - Fixed - Single,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,2026/03/31,2026/03/31
+SIF170,IOS HH Legacy Meas Wat Manual Fixed,ST01,Measured Fixed Charge,Isles of Scilly - Household - Legacy - Measured - Water - Manual - Fixed,2020/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF171,IOS HH Legacy Meas Wat Manual Volume,ST01,Measured Billing,Isles of Scilly - Household - Legacy - Measured - Water - Manual - Volume,2020/04/01,2025/10/01,3,3,Yes,Yearly,Per M3,,
+SIF172,BW HH Legacy Meas Take On,ST01,Measured Fixed Charge,Bournemouth Water - Household - Legacy - Measured - Take On,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF173,BW HH Legacy Unm Take On,ST01,Unmeasured Fixed Charge,Bournemouth Water - Household - Legacy - Unmeasured - Take On,2017/04/01,2025/10/01,3,3,Yes,Yearly,Annual,,
+SIF174,BW Legacy Migration Placeholder ,ST03,Sundry,Bournemouth Water - Legacy - Migration - Placeholder,2017/04/01,2025/10/01,3,3,No,,Quantity,,
+SIF175,SWW Legacy Migration Placeholder ,ST03,Sundry,South West Water - Legacy - Migration - Placeholder,2017/04/01,2025/10/01,3,3,No,,Quantity,,
+SIF176,IOS Legacy Migration Placeeholder ,ST03,Sundry,Isles of Scilly - Legacy - Migration - Placeholder,2020/04/01,2025/10/01,3,3,No,,Quantity,,
+SIF177,WBT Legacy Migration Placeeholder ,ST03,Sundry,Westonbirt - Legacy - Migration - Placeholder,2022/04/01,2025/10/01,3,3,No,,Quantity,,

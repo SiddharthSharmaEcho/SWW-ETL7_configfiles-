@@ -1,53 +1,47 @@
-﻿Old Staging Ref,Staging Ref,Payment Plan Type Name,Active,Align Budget Plan Renewal to Readings,Arrears on First Instalment,Credit Handling,Days Notice,Debt Recovery Profile,Final Payment Plan,Max Refund Household ,Max Refund Non Household,Max Renewal Threshold ,Min Renewal Threshold ,Min Renewal Instalment Amount, Max Renewal Instalment Amount,Maximum Number of Instalments,Minimum Refund Household,Minimum Refund Non Household,Number of Rolling Instalments,Payment frequency,Plan Type,Renewal Frequency,Reset Debt Recovery,Special,System Default,Unmeasured,Low Value Uplift,Retain Instalments,Use Earliest Start Date,Use Half Yearly Latest First Instalment,Use Latest End Date
-Fortnightly - Prev Occ (Card),PPT-FFC,Fortnightly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,1,0,0,,0,,,
-Fortnightly - Prev Occ (Instal/SO),PPT-FFS,Fortnightly - Prev Occ (Instal),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,26,,,0,Fortnightly,Instalment Plan,,0,1,0,0,,0,,,
-Monthly - Prev Occ (Card),PPT-FMC,Monthly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,0,,0,,,
-Monthly - Prev Occ (DD),PPT-FMDD,Monthly - Prev Occ (DD),1,0,0,Add To Calculation,10,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,0,,0,,,
-Monthly - Prev Occ (Instal/SO),PPT-FMS,Monthly - Prev Occ (Instal/SO),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
-Pay in Full - Prev Occ (Card),PPT-FPIFC,Pay in Full - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,1,0,0,0,,0,,,
-Pay in Full - Prev Occ (DD),PPT-FPIFDD,Pay in Full - Prev Occ (DD),1,0,0,Add To Calculation,10,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,1,0,0,0,,0,,,
-Pay in Full - Prev Occ (Instal/SO),PPT-FPIFS,Pay in Full - Prev Occ (Instal/SO),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,0,0,,0,,,
-Weekly - Prev Occ (Card),PPT-FWC,Weekly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,0,,0,,,
-Weekly - Prev Occ (Instal/SO),PPT-FWS,Weekly - Prev Occ (Instal),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Extend F/Nightly,PPT-MEFS,Meas - Extend - F/Nightly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Extend Monthly (Card),PPT-MEMC,Meas - Extend - Monthly (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Extend Monthly,PPT-MEMS,Meas - Extend - Monthly (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Extend Weekly,PPT-MEWS,Meas - Extend - Weekly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Measured F/Nightly,PPT-MFBS,Meas - F/Nightly - Budget (Instal),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,50,50,26,,,6,Fortnightly,Budget Plan,6,1,0,0,0,,1,,,
-Measured Monthly (Card),PPT-MMBC,Meas - Monthly - Budget (BW Card),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,100,100,12,,,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
-Measured Monthly DD,PPT-MMBDD,Meas - Monthly - Budget (DD),1,1,0,Refund,8,Budget/Instalment,0,9999.99,9999.99,,,100,100,12,250,250,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
-Measured Monthly,PPT-MMBS,Meas - Monthly - Budget (Instal/SO),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,100,100,12,,,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
-Meas Restart Weekly (Card),PPT-MRWC,Meas - Restart - Weekly (BW Card),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,1,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Restart Weekly,PPT-MRWS,Meas - Restart - Weekly (Instal),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Measured Weekly,PPT-MWBS,Meas - Weekly - Budget (Instal),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,25,25,52,,,12,Weekly,Budget Plan,6,1,0,0,0,,1,,,
-Meas Water Direct Non-Cons,PPT-MWNCWD,Meas - Weekly - NC (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Meas Water Direct,PPT-MWWD,Meas - Weekly (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
-Unm Extend F/Nightly,PPT-UEFS,Unm - Extend - F/Nightly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,1,0,1,10,1,1,0,0
-Unm Extend Monthly (Card),PPT-UEMC,Unm - Extend - Monthly (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,1,10,1,1,0,0
-Unm Extend Monthly,PPT-UEMS,Unm - Extend - Monthly (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,1,10,1,1,0,0
-Unm Extend Weekly,PPT-UEWS,Unm - Extend - Weekly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,10,1,1,1,0
-Unm F/nightly 10,PPT-UF22S,Unm - F/Nightly - 22 Instalments (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,22,,,0,Fortnightly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured F/nightly (12),PPT-UF26S,Unm - F/Nightly - 26 Instalments (Instal),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured Half Yearly DD,PPT-UHYDD,Unm - H/Yearly (DD),1,0,1,Add To Calculation,10,Budget/Instalment,0,,,,,,,2,,,0,Half Yearly,Instalment Plan,,1,0,0,1,,0,1,1,1
-Unmeasured Half Yearly,PPT-UHYS,Unm - H/Yearly (Instal/SO),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,2,,,0,Half Yearly,Instalment Plan,,1,0,0,1,,0,1,1,1
-Unmeasured 10 Month (Card),PPT-UM10C,Unm - Monthly - 10 Instalments (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured 10 Month DD,PPT-UM10DD,Unm - Monthy - 10 Instalments (DD),1,0,0,Add To Calculation,10,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured 10 Month,PPT-UM10S,Unm - Monthly - 10 Instalments (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unm Monthly (12) (Card),PPT-UM12C,Unm - Monthly - 12 Instalments (BW Card),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured Monthly (12),PPT-UM12S,Unm - Monthly - 12 Instalments (Instal/SO),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unm Restart Weekly (Card),PPT-URWC,Unm - Restart - Weekly (BW Card),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,1,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
-Unm Restart Weekly,PPT-URWS,Unm - Restart - Weekly (Instal),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
-Unm Weekly 10,PPT-UW43S,Unm - Weekly - 43 Instalments (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,43,,,0,Weekly,Instalment Plan,,1,0,0,1,,0,1,0,1
-Unmeasured Weekly (12),PPT-UW52S,Unm - Weekly - 52 Instalments (Instal),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,0,0,1,,0,1,0,
-Unm Water Direct Non-Cons,PPT-UWNCWD,Unm - Weekly - NC (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
-Unm Water Direct,PPT-UWWD,Unm - Weekly (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
-Litigation Holding Payment Plan,PPT-XLITS,Litigation Holding Payment Plan,1,0,0,Add To Calculation,8,"Budget/Instalment Post CC	",0,,,,,,,1,,,0,Yearly,Instalment Plan,,0,1,0,0,,0,,,
-Pay in Full DD,PPT-XPIFDD,Pay in Full (DD),1,0,0,Add To Calculation,12,Pay in Full,0,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,0,0,,0,,,
-Pay in Full,PPT-XPIFS,Pay in Full (Instal/SO),1,0,0,Add To Calculation,8,Pay in Full,0,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,1,0,,0,,,
-,,RF Debt - Weekly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,0,,0,,,
-,,RF Debt - Fortnightly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,0,0,0,,0,,,
-,,RF Debt - Monthly (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,0,,0,,,
-,,RF Debt - Monthly (DD),1,0,0,Add To Calculation,10,Budget/Instalment Post CC,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,0,,0,,,
-,,RF Debt - Monthly (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,0,,0,,,
-,,RF Debt - Pay In Full (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,1,,,0,Yearly,Instalment Plan,,0,1,0,0,,0,,,
-,,RF Debt - Pay In Ful (DD),1,0,0,Add To Calculation,12,Budget/Instalment Post CC,0,,,,,,,1,,,0,Yearly,Instalment Plan,,1,1,0,0,,0,,,
+﻿Staging Ref,Payment Plan Type Name,Active,Align Budget Plan Renewal to Readings,Arrears on First Instalment,Credit Handling,Days Notice,Debt Recovery Profile,Final Payment Plan,Max Refund Household ,Max Refund Non Household,Max Renewal Threshold ,Min Renewal Threshold ,Min Renewal Instalment Amount,Max Renewal Instalment Amount,Maximum Number of Instalments,Minimum Refund Household,Minimum Refund Non Household,Number of Rolling Instalments,Payment frequency,Plan Type,Renewal Frequency,Reset Debt Recovery,Special,System Default,Unmeasured,Low Value Uplift,Retain Instalments,Use Earliest Start Date,Use Half Yearly Latest First Instalment,Use Latest End Date
+PPT-FFC,Fortnightly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,1,0,0,,0,,,
+PPT-FFS,Fortnightly - Prev Occ (Instal),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,26,,,0,Fortnightly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-FMC,Monthly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,0,,0,,,
+PPT-FMDD,Monthly - Prev Occ (DD),1,0,0,Add To Calculation,10,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,0,,0,,,
+PPT-FMS,Monthly - Prev Occ (Instal/SO),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-FPIFC,Pay in Full - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,1,0,0,0,,0,,,
+PPT-FPIFDD,Pay in Full - Prev Occ (DD),1,0,0,Add To Calculation,10,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,1,0,0,0,,0,,,
+PPT-FPIFS,Pay in Full - Prev Occ (Instal/SO),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,0,0,,0,,,
+PPT-FWC,Weekly - Prev Occ (BW Card),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,0,,0,,,
+PPT-FWS,Weekly - Prev Occ (Instal),1,0,0,Add To Calculation,8,Final FA/NFA,1,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MEFS,Meas - Extend - F/Nightly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MEMC,Meas - Extend - Monthly (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MEMS,Meas - Extend - Monthly (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MEWS,Meas - Extend - Weekly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MFBS,Meas - F/Nightly - Budget (Instal),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,50,50,26,,,6,Fortnightly,Budget Plan,6,1,0,0,0,,1,,,
+PPT-MMBC,Meas - Monthly - Budget (BW Card),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,100,100,12,,,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
+PPT-MMBDD,Meas - Monthly - Budget (DD),1,1,0,Refund,8,Budget/Instalment,0,9999.99,9999.99,,,100,100,12,250,250,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
+PPT-MMBS,Meas - Monthly - Budget (Instal/SO),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,100,100,12,,,3,Monthly,Budget Plan,6,1,0,0,0,,1,,,
+PPT-MRWC,Meas - Restart - Weekly (BW Card),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,1,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MRWS,Meas - Restart - Weekly (Instal),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MWBS,Meas - Weekly - Budget (Instal),1,1,0,Add To Calculation,8,Budget/Instalment,0,,,,,25,25,52,,,12,Weekly,Budget Plan,6,1,0,0,0,,1,,,
+PPT-MWNCWD,Meas - Weekly - NC (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-MWWD,Meas - Weekly (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-UEFS,Unm - Extend - F/Nightly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,1,0,1,10,1,1,0,0
+PPT-UEMC,Unm - Extend - Monthly (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,1,10,1,1,0,0
+PPT-UEMS,Unm - Extend - Monthly (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,1,0,1,10,1,1,0,0
+PPT-UEWS,Unm - Extend - Weekly (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,10,1,1,1,0
+PPT-UF22S,Unm - F/Nightly - 22 Instalments (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,22,,,0,Fortnightly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UF26S,Unm - F/Nightly - 26 Instalments (Instal),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,26,,,0,Fortnightly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UHYDD,Unm - H/Yearly (DD),1,0,1,Add To Calculation,10,Budget/Instalment,0,,,,,,,2,,,0,Half Yearly,Instalment Plan,,1,0,0,1,,0,1,1,1
+PPT-UHYS,Unm - H/Yearly (Instal/SO),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,2,,,0,Half Yearly,Instalment Plan,,1,0,0,1,,0,1,1,1
+PPT-UM10C,Unm - Monthly - 10 Instalments (BW Card),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PPT-UM10DD,Unm - Monthy - 10 Instalments (DD),1,0,0,Add To Calculation,10,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UM10S,Unm - Monthly - 10 Instalments (Instal/SO),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,10,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UM12C,Unm - Monthly - 12 Instalments (BW Card),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UM12S,Unm - Monthly - 12 Instalments (Instal/SO),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,12,,,0,Monthly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-URWC,Unm - Restart - Weekly (BW Card),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,1,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
+PPT-URWS,Unm - Restart - Weekly (Instal),1,0,0,Add To Calculation,8,Restart,0,,,,,,,13,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
+PPT-UW43S,Unm - Weekly - 43 Instalments (Instal),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,43,,,0,Weekly,Instalment Plan,,1,0,0,1,,0,1,0,1
+PPT-UW52S,Unm - Weekly - 52 Instalments (Instal),1,0,1,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,0,0,1,,0,1,0,
+PPT-UWNCWD,Unm - Weekly - NC (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
+PPT-UWWD,Unm - Weekly (Water Direct),1,0,0,Add To Calculation,8,Budget/Instalment,0,,,,,,,52,,,0,Weekly,Instalment Plan,,1,1,0,1,,0,1,0,0
+PPT-XLITS,Litigation Holding Payment Plan,1,0,0,Add To Calculation,8,Budget/Instalment Post CC,0,,,,,,,1,,,0,Yearly,Instalment Plan,,0,1,0,0,,0,,,
+PPT-XPIFDD,Pay in Full (DD),1,0,0,Add To Calculation,12,Pay in Full,0,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,0,0,,0,,,
+PPT-XPIFS,Pay in Full (Instal/SO),1,0,0,Add To Calculation,8,Pay in Full,0,,,,,,,1,,,0,Yearly,Pay In Full,,0,0,1,0,,0,,,
